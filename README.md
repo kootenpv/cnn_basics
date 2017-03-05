@@ -6,7 +6,7 @@ Built specifically for [Cornell movie reviews data](http://www.cs.cornell.edu/pe
 
 Got to around 75% accuracy with a very simple grid search.
 
-It should be easy to run it with your own data though, [only a few lines](https://github.com/kootenpv/yagmail/blob/master/movie_ratings.py).
+It should be easy to run it with your own data though, [only a few lines](https://github.com/kootenpv/cnn_basics/blob/master/movie_ratings.py).
 
 # Installation
 
