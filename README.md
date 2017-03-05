@@ -1,10 +1,12 @@
 # CNN basics
 
-Should speed up getting CNN going.
+Should speed up getting CNN going for NLP.
 
 Built specifically for [Cornell movie reviews data](http://www.cs.cornell.edu/people/pabo/movie-review-data/), but can be used with any text classification.
 
 Got to around 75% accuracy with a very simple grid search.
+
+It should be easy to run it with your own data though, [only a few lines](https://github.com/kootenpv/yagmail/blob/master/movie_ratings.py).
 
 # Installation
 
